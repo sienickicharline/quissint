@@ -1,0 +1,10 @@
+.element {
+    border-image-slice: 10%; /* Slice the border image into 10% sections */
+    border-image-width: 5px; /* Set the width of the border image */
+    flex: 1 0 auto; /* Grow factor, shrink factor, and basis */
+    font-weight: bold; /* Set the font weight to bold */
+    opacity: 0.8; /* Set the opacity to 80% */
+    order: 2; /* Set the order in a flex container */
+    z-index: 100; /* Set the stacking order */
+    /* Add more properties as needed */
+}
